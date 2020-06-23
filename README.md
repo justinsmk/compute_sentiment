@@ -1,3 +1,3 @@
 # compute_sentiment
 
-##### Testing github with a simple algorhithm project
+##### Testing github with a simple algorithm project
